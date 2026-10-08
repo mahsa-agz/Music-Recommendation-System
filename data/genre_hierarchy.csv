@@ -1,0 +1,217 @@
+genre_id,p_id,level,name
+0,0,1,Unknown
+1,1,1,Electronic/Dance
+2,1,2,Ambient
+3,2,3,Ambient Dub
+4,2,3,Ambient Tech
+5,1,2,Breaks
+6,1,2,Jungle / Drum &amp; Bass
+7,1,2,House
+8,7,3,Deep House
+9,7,3,Tech House
+10,7,3,Funky House
+11,7,3,Garage
+12,7,3,Progressive House
+13,7,3,Big Beat
+14,1,2,Mainstream Dance
+15,14,3,Disco
+16,14,3,Hi-NRG
+17,14,3,Freestyle
+18,1,2,Techno
+19,18,3,Minimal Techno
+20,18,3,Progressive Techno
+21,18,3,Detroit Techno
+22,1,2,Trance
+23,1,2,Downtempo
+24,1,3,Trip Hop
+25,1,3,Acid Jazz
+26,1,2,Hardcore
+27,27,1,Reggae
+28,27,2,Dub
+29,27,2,Dancehall
+30,27,2,Traditional Ska
+31,27,2,Ragga
+32,27,2,Roots
+33,27,2,Rocksteady
+34,27,2,Soca
+35,35,1,Rap
+36,35,2,Alternative Rap
+37,35,2,Dirty South
+38,37,3,Bass
+39,35,2,East Coast Rap
+40,35,2,Mainstream Rap
+41,35,2,Midwest Rap
+42,35,2,Hardcore Rap
+43,35,2,Old-School Rap
+44,35,2,Underground Rap
+45,35,2,West Coast Rap
+46,35,2,Hip-Hop / Soul
+47,47,1,Blues
+48,47,2,Country Blues
+49,47,2,Electric Blues
+50,47,2,Modern Blues
+51,47,2,Early Blues
+52,47,2,Blues-Rock
+53,47,2,Acoustic Blues
+54,54,1,Country
+55,54,2,Alt-Country
+56,54,2,Bluegrass
+57,54,2,Classic Country
+58,54,2,Modern Country
+59,54,2,Country-Rock
+60,54,2,Cowboy
+61,54,2,Honky Tonk
+62,54,2,Outlaw Country
+63,54,2,Pop Country
+64,54,2,Western Swing
+65,65,1,Folk
+66,65,2,Modern Folk
+67,65,2,Traditional Folk
+68,65,2,British Folk
+69,65,2,Folk-Pop
+70,70,1,Holiday
+71,70,2,Christmas
+72,70,2,Other Holiday
+73,70,2,Halloween
+74,74,1,Jazz
+75,74,2,Avant-Garde Jazz
+76,74,2,Big Band
+77,74,2,Bebop
+78,74,2,Cool Jazz
+79,74,2,Fusion
+80,74,2,Latin Jazz
+81,74,2,Afro-Cuban Jazz
+82,74,2,Smooth Jazz
+83,74,2,Swing
+84,74,2,Vocal Jazz
+85,74,2,Modern Jazz
+86,74,2,Dixieland
+87,74,2,New Orleans Jazz
+88,88,1,Latin
+89,88,2,Latin Pop
+90,88,2,Latin Rock
+91,88,2,Latin Alternative
+92,91,3,Rock en Espanol
+93,88,2,Latin Rap
+94,88,2,Merengue
+95,88,2,Salsa
+96,88,2,Tejano
+97,88,2,Latin Dance
+98,88,2,Reggaeton
+99,99,1,Miscellaneous
+100,99,2,Children's
+101,99,2,Sound Effects
+102,99,2,Spoken Word
+103,99,2,Karaoke
+104,104,1,New Age
+105,104,2,Electric
+106,106,1,Pop
+107,106,2,Adult Contemporary
+108,106,2,Teen Pop
+109,106,2,Mainstream Pop
+110,106,2,Soft Pop
+111,106,2,Bubblegum
+112,106,2,Teen Idols
+113,106,2,New Wave
+114,114,1,R&B
+115,114,2,Classic R&B
+116,115,3,Doo Wop
+117,115,3,Motown Sound
+118,114,2,Funk
+119,114,2,Neo-soul
+120,114,2,Modern R&B
+121,120,3,New Jack Swing
+122,114,2,Quiet Storm
+123,123,1,Religious
+124,123,2,Alternative Christian
+125,123,2,Contemporary Christian
+126,123,2,Gospel
+127,126,3,Country Gospel
+128,126,3,R&B Gospel
+129,126,3,R&B Traditional Gospel
+130,123,2,Christian Rock
+131,123,2,Christian Rap
+132,123,2,Inspirational
+133,123,2,Other
+134,134,1,Rock
+135,134,2,Classic Rock
+136,135,3,Psychedelic Rock
+137,135,3,Glam Rock
+138,135,3,Southern Rock
+139,135,3,Surf Rock
+140,135,3,Rockabilly
+141,135,3,British Invasion
+142,135,3,Pub Rock
+143,135,3,Garage Rock
+144,134,2,Hard Rock
+145,144,3,Art/Progressive Rock
+146,144,3,Acid Rock
+147,144,3,Stoner
+148,134,2,Metal
+149,148,3,Speed Metal
+150,148,3,Black Metal
+151,148,3,Death Metal
+152,148,3,Pop Metal
+153,148,3,Rap Metal
+154,148,3,Progressive
+155,148,3,Goth Metal
+156,134,2,Mainstream Rock
+157,156,3,Roots Rock
+158,156,3,Jam Bands
+159,134,2,Modern Rock
+160,159,3,Swing Renewal
+161,159,3,Industrial Rock
+162,159,3,Gothic
+163,159,3,Powerpop
+164,159,3,Dance Rock
+165,159,3,Grunge
+166,134,2,Adult Alternative
+167,134,2,Soft Rock
+168,134,2,Punk
+169,168,3,Hardcore Punk
+170,168,3,Emo
+171,168,3,Classic Punk
+172,168,3,Modern Ska
+173,168,3,British Punk
+174,168,3,Art Punk
+175,168,3,Pop Punk
+176,134,2,Indie Rock
+177,176,3,Indie Pop
+178,176,3,Lo-Fi
+179,176,3,Jangle Rock
+180,176,3,Slowcore
+181,176,3,Experimental
+182,176,3,Electro Rock
+183,134,2,British Rock
+184,134,3,Shoegazer
+185,134,3,Britpop
+186,134,2,Avant-Garde Rock
+187,187,1,Shows &amp; Movies
+188,187,2,Movie Soundtracks
+189,187,2,TV Soundtracks
+190,187,2,Original Scores
+191,187,2,Original Cast Sound Recording
+192,192,1,World
+193,192,2,African
+194,192,2,Asian
+195,192,2,Caribbean
+196,192,2,Celtic
+197,192,2,Middle Eastern
+198,197,3,Klezmer
+199,192,2,South Pacific
+200,192,2,Spanish
+201,192,2,Cajun
+202,192,2,Zydeco
+203,192,2,World Beat
+204,192,2,India
+205,192,2,Brazilian
+206,206,1,Comedy
+207,206,2,Country Comedy
+208,206,2,Standup
+209,206,2,Novelty Songs
+210,206,2,Sketch
+211,211,1,Easy Listening
+212,211,2,Vocal Standards
+213,211,2,Lounge
+214,211,2,Orchestral
+215,211,2,Classical

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+pkl/
+*.log
+result/
+*.log.old
+*.log.partial
